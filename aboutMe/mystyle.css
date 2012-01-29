@@ -1,0 +1,26 @@
+#intro{
+	position:absolute;
+	left : 10%;
+	right: 10%;
+	background-image: url(back1.jpg), no-repeat; 
+	background-size: 100%;
+ }
+#edu{
+	position:absolute;
+	
+ }
+table{
+	background-color:#E2F2A4;
+	position:relative;
+ }
+td{
+	border-right:3px solid black;
+	border-bottom:3px solid black;
+	border-top:3px solid black;
+	border-left:3px solid black;
+  }
+
+tr{
+	border-bottom:3px solid black;
+  }
+

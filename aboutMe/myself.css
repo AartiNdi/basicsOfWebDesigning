@@ -1,0 +1,78 @@
+#intro{
+	border:1px solid black;
+	position:relative;
+	left:10%;
+	size:1100px 400px;
+	background-image: url(back1.jpg), no-repeat; 
+ }
+#me{
+	position:relative;
+	right:2%;
+}
+#edu{
+	position:relative;
+	size:700px 700px;
+	float:center;
+	left:10%;
+ }
+ #places{
+	 position:relative;
+	 height:500px;
+	 width:500px;
+	 left:10%;
+ }
+#intr_org{
+	position:relative;
+	height:100px;
+	width:700px;
+	left:10%;
+ }
+#people{
+	position:relative;
+	left:10%;
+	height:150px;
+	width:700px;
+}
+#quotes{
+	position:relative;
+	left:10%;
+}
+#timeline{
+	position:relative;
+	float:right;
+	width:400px;
+	height:800px;
+}
+#contact{
+	position:relative;
+	float:bottom;
+}
+table{
+	background-color:#E2F2A4;
+	position:relative;
+	left:10%;
+ }
+td{
+	border-right:3px solid black;
+	border-bottom:3px solid black;
+	border-top:3px solid black;
+	border-left:3px solid black;
+  }
+
+tr{
+	border-bottom:3px solid black;
+  }
+
+body{
+	background-color:#F2C2A5;
+	background-image:url(bg1.jpg);
+}
+
+background-image{
+}
+
+div:hover{
+	background-color:yellow;
+	font-family:"Arial";
+	text-align:center;
+}
